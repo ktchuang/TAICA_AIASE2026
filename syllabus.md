@@ -46,8 +46,8 @@
 
 | 週次 | 主題 | 時數 | 內容 |
 |:---:|------|:---:|------|
-| 4 | 前端 Web 技術與生成式介面設計、後端架構、微服務設計與 LLM Proxy Gateway | 3h | Next.js / React / Tailwind、gen-AI UI patterns、SSE / WebSocket streaming、API Server（FastAPI / Node.js）、REST / WebSocket / SSE 實作、Microservice 架構核心、GenAI 微服務拆分、LLM Gateway 核心微服務（Routing、Token Logging）|
-| 5 | Invited Talk (AWS Architect, idanbean艾即思科技) | 3h | AWS EC2 / ECS / Lambda、IAM / S3 / RDS、Kiro 環境、成本估算與 auto scaling、CDN / Cache |
+| 4 (2026/3/18)| Invited Talk (AWS Architect, idanbean艾即思科技) | 3h | AWS EC2 / ECS / Lambda、IAM / S3 / RDS、Kiro 環境、成本估算與 auto scaling、CDN / Cache |
+| 5 | 前端 Web 技術與生成式介面設計、後端架構、微服務設計與 LLM Proxy Gateway | 3h | Next.js / React / Tailwind、gen-AI UI patterns、SSE / WebSocket streaming、API Server（FastAPI / Node.js）、REST / WebSocket / SSE 實作、Microservice 架構核心、GenAI 微服務拆分、LLM Gateway 核心微服務（Routing、Token Logging）|
 | 6 | 事件驅動資料流架構 | 3h | ETL / background tasks、Airflow DAG / Task / Scheduler、Kafka → Airflow → Iceberg 典型資料處理流程、Iceberg Data Lake、Microservice 與 Background Worker 整合 |
 | 7 | 校際活動日| 3h | (4/8停課) |
 ---
@@ -56,9 +56,9 @@
 
 | 週次 | 主題 | 時數 | 內容 |
 |:---:|------|:---:|------|
-| 8 | Invited Talk (Sowork.AI) | 3h | Marketing + AI (2026/4/15)
+| 8  (2026/4/15)| Invited Talk (Sowork.AI) | 3h | Marketing + AI
 | 9 | CI/CD、MLOps、LLMOps | 3h | GitHub Actions / GitLab CI、Docker 化與環境建置、MLflow / promptfoo、模型行為監控與 Regression Test、Microservice deployment pipeline |
-| 10 | Invited Talk (Apache Taipei Funder, 「源來適你」Kafka Team)| 3h | Kafka/Iceberg/Airflow (2026/4/29)|
+| 10 (2026/4/29) | Invited Talk (Apache Taipei Funder, 「源來適你」Kafka Team)| 3h | Kafka/Iceberg/Airflow |
 | 11 | 資料庫系統與向量資料庫 | 3h | Embedding / HNSW / Retrieval、RAG pipeline（chunking → index → rerank）、Retrieval microservice |
 ---
 
