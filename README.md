@@ -20,6 +20,9 @@
 ---
 
 ## Announcement
+- 5/27 We have another invited talk from Sowork.
+<img src="527_invitedtalk.png" alt="booth" width="200">
+
 - 5/20 We have another invited talk from Apache Taipei.
 <img src="520_invitedtalk.png" alt="booth" width="200">
 
